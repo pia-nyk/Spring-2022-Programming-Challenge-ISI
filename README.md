@@ -8,7 +8,7 @@ The textual data obtained from Telegram group <b>https://t.me/CryptoComOfficial<
 
 ![alt text](https://github.com/pia-nyk/Spring-2022-Programming-Challenge-ISI/blob/master/sentiment%20plot%20by%20date.png)
 
-Hovering on the dots will give additional information about the number of msgs per day, which can also be analyzed from the size of the dots on the plot. The color of the plot determines the sentiment type which can be found in the legend provided.
+<b>Hovering on the dots will give additional information about the number of msgs per day</b>, which can also be analyzed from the size of the dots on the plot. The color of the plot determines the sentiment type which can be found in the legend provided.
 
 <h3>Steps to run the file in Google Colab environment:</h3>
 <ol>
