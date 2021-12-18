@@ -12,7 +12,7 @@ The textual data obtained from Telegram group <b>https://t.me/CryptoComOfficial<
 
 <h3>Steps to run the file in Google Colab environment:</h3>
 <ol>
-  <li> Open Google Drive -> Collab Notebooks (Pls check below if you don't already have this folder in your drive)  </li>
+  <li> Open Google Drive -> Collab Notebooks </li>
   <li> Create a folder ISI</li>
   <li> Add the reults.json & preprocess.ipynb files to this folder </li>
   <li> Open preprocess.ipynb on drive </li>
