@@ -17,5 +17,5 @@ Hovering on the dots will give additional information about the number of msgs p
   <li> Add the reults.json & preprocess.ipynb files to this folder </li>
   <li> Open preprocess.ipynb on drive </li>
   <li> Run all the cells in the colab environment </li>
-  <li> For the 3rd cell (while mounting drive), you will receive a prompt to permit the notebook to access google drive. Click on Connect to Google Drive</li>
+  <li> For the 3rd cell (while mounting drive), you will receive a prompt to permit the notebook to access google drive. Click on Connect to Google Drive. Select account & click on allow</li>
 </ol>
